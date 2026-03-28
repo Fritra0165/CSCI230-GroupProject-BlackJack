@@ -64,4 +64,5 @@ The objective of this Java program is to model and simulate a game of Blackjack 
 Travis Frias  
 Brian Earle
 
-## Notes this project was created collaboratively as a part of coursework. 
+## Notes 
+This project was created collaboratively as a part of coursework. 
